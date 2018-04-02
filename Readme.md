@@ -6,7 +6,7 @@ It shows the amount of time remaining on a seven-segment display. The decimal po
 are alternated each time the main loop runs to serve as a heartbeat to indicate the program is
 still running properly.
 
-The display is multiplexed. There is a timer-based ISR that is used to drive the display. The reset
+There is a timer-based ISR that is used to drive the display. The reset
 button triggers another ISR that resets the time left back to the maximum value.
 
 Components used:
