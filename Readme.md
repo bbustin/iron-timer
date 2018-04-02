@@ -10,8 +10,8 @@ There is a timer-based ISR that is used to drive the display. The reset
 button triggers another ISR that resets the time left back to the maximum value.
 
 Components used:
-* Metro Mini [Adafruit Link](https://www.adafruit.com/product/2590) (this should work with all Arduinos including the Uno - The Arduino Mega and some others may need minor tweaks to the timer-based ISR)
-* [IoT Power Relay](https://dlidirect.com/products/iot-power-relay) [Adafruit Link](https://www.adafruit.com/product/2935)
+* Metro Mini ([Adafruit Link](https://www.adafruit.com/product/2590)) (this should work with all Arduinos including the Uno - The Arduino Mega and some others may need minor tweaks to the timer-based ISR)
+* [IoT Power Relay](https://dlidirect.com/products/iot-power-relay) ([Adafruit Link](https://www.adafruit.com/product/2935))
 
 While it is possible to build the AC components yourself, I highly recommend buying a pre-made
 device such as the the [IoT Power Relay](https://dlidirect.com/products/iot-power-relay).
