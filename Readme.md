@@ -19,6 +19,6 @@ device such as the the [IoT Power Relay](https://dlidirect.com/products/iot-powe
 Improvements to be made:
 * Make reset switch less sensitive - sometimes power fluctuations cause it to trigger.
   I have somewhat fixed this by using a better power supply and adding a capacitor
-  in parallel, but I think thewre is likely a simpler more fool-proof way.
+  in parallel, but I think there is likely a simpler more fool-proof way.
 
 ###### I have no affiliation with Adafruit and these links are not referral links. I like all of the libraries and educational material they release and like to support them where I can.
